@@ -1,0 +1,48 @@
+#titulo{
+text-align: center;
+padding: 20px;
+font-family: 'Lobster', cursive;
+
+
+}
+.ling{
+				text-align: center;
+				color: #BDBDBD;
+				font-size: 10px;
+}
+.msg{
+				text-align: center;
+				color: #BDBDBD;
+				font-size: 15px;
+}
+.enter{
+				color: white;
+				background: #2E9AFE;
+				text-align: center;
+				border-radius: 3%;
+				padding: 5px;
+	  }
+
+.ou{
+				text-align: center;
+				color: #BDBDBD;
+				font-size: 15px;
+}
+				.a{
+								color: #2E9AFE;
+								font-size: 15px;
+								text-align: center;
+				}
+.foto{
+								 display: block; 
+								 margin-left: auto; 
+								 margin-right: auto;
+								 
+								 
+				}
+				.from{
+								
+								font-size: 15px;
+								text-align: center;
+								color: #BDBDBD;
+				}
